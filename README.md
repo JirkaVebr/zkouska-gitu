@@ -1,2 +1,3 @@
 # zkouska-gitu
-Hrajeme si s gitem
+
+Hrajeme si s gitem.
